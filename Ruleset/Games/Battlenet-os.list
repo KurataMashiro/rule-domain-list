@@ -4,3 +4,5 @@ DOMAIN,cdn.blz-contentstack.com
 DOMAIN,blz-contentstack-assets.akamaized.net
 DOMAIN,images.blz-contentstack.com
 DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,battlenet.com
+DOMAIN-SUFFIX,blizzard.com
