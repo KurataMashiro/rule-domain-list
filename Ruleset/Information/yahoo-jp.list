@@ -1,8 +1,7 @@
 # 内容：Yahoo JP
 # 数量：8条
-DOMAIN,
-
 DOMAIN-SUFFIX,yahoo.co.jp
 DOMAIN-SUFFIX,ylive.jp
 DOMAIN-SUFFIX,yimg.jp
 DOMAIN-SUFFIX,yahooapis.jp
+DOMAIN-SUFFIX,storage-yahoo.jp
