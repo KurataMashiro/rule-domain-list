@@ -12,8 +12,13 @@ DOMAIN,steampowered.com.8686c.com
 DOMAIN,steamstatic.com.8686c.com
 DOMAIN,wmsjsteam.com
 DOMAIN,xz.pphimalayanrt.com
-DOMAIN,store.steampowered.com
-DOMAIN,api.steampowered.com
+DOMAIN,steambroadcast.akamaized.net
+DOMAIN,steampipe.akamaized.net
+DOMAIN,steamstore-a.akamaihd.net
+DOMAIN,steamusercontent-a.akamaihd.net
+DOMAIN,steamuserimages-a.akamaihd.net
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamgames.com
 DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,steamcontent.com
