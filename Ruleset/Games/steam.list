@@ -2,6 +2,7 @@
 
 DOMAIN,steamcommunity-a.akamaihd.net
 DOMAIN,cdn.akamai.steamstatic.com
+DOMAIN,cdn.cloudflare.steamstatic.com
 DOMAIN,steammobile.akamaized.net
 DOMAIN,steamstore-a.akamaihd.net
 DOMAIN,store.steampowered.com
