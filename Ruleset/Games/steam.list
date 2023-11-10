@@ -3,8 +3,7 @@
 DOMAIN,steamcommunity-a.akamaihd.net
 DOMAIN,steammobile.akamaized.net
 DOMAIN,steamstore-a.akamaihd.net
-DOMAIN,store.steampowered.com
-DOMAIN,api.steampowered.com
+DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steam-chat.com
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steamcommunity.com
