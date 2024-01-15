@@ -1,3 +1,5 @@
 #我自己的自定义Block List
 
+DOMAIN,log-upload.mihoyo.com
+DOMAIN,ys-log-upload.mihoyo.com
 DOMAIN-SUFFIX,ads-pixiv.net
