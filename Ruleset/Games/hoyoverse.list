@@ -1,0 +1,9 @@
+#mihoyo-os/hoyoverse
+DOMAIN-SUFFIX,osasiadispatch.yuanshen.com
+DOMAIN-SUFFIX,autopatchhk.yuanshen.com
+DOMAIN-SUFFIX,hk4e-api-os.mihoyo.com
+DOMAIN-SUFFIX,osuspider.yuanshen.com
+DOMAIN-SUFFIX,hoyoverse.com
+IP-CIDR,47.244.0.0/15,no-resolve
+IP-CIDR,47.80.0.0/12,no-resolve
+IP-CIDR,8.208.0.0/12,no-resolve
