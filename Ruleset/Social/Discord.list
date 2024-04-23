@@ -29,4 +29,6 @@ DOMAIN-SUFFIX,discordstatus.com
 DOMAIN-SUFFIX,hammerandchisel.ssl.zendesk.com
 DOMAIN-SUFFIX,watchanimeattheoffice.com
 IP-CIDR,66.22.208.0/22,no-resolve
+IP-CIDR,66.22.248.0/24,no-resolve
+
 PROCESS-NAME,Discord.exe
