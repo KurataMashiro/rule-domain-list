@@ -2,6 +2,7 @@
 
 DOMAIN,log-upload.mihoyo.com
 DOMAIN,hkrpg-log-upload.mihoyo.com
+DOMAIN,apm-log-upload.mihoyo.com
 DOMAIN,ys-log-upload.mihoyo.com
 DOMAIN-SUFFIX,ads-pixiv.net
 DOMAIN-SUFFIX,niannz.com
