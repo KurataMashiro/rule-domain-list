@@ -1,0 +1,4 @@
+#Other Rules not include in ACL4SSR Telegram Rules
+
+#NL
+IP-CIDR,95.161.76.0/25,no-resolve
