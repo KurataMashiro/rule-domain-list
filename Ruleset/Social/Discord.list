@@ -35,5 +35,6 @@ IP-CIDR,66.22.248.0/24,no-resolve
 
 # US
 IP-CIDR,35.213.192.0/18,no-resolve
+IP-CIDR,35.215.180.0/22,no-resolve
 
 PROCESS-NAME,Discord.exe
