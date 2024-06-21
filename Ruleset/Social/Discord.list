@@ -29,8 +29,11 @@ DOMAIN-SUFFIX,discordstatus.com
 DOMAIN-SUFFIX,hammerandchisel.ssl.zendesk.com
 DOMAIN-SUFFIX,watchanimeattheoffice.com
 
-# Hong Kong
+# HK
 IP-CIDR,35.215.128.0/18,no-resolve
+
+# SG
+IP-CIDR,35.213.128.0/18,no-resolve
 
 # JP
 IP-CIDR,66.22.208.0/22,no-resolve
