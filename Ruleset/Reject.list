@@ -5,6 +5,8 @@ DOMAIN,hkrpg-log-upload.mihoyo.com
 DOMAIN,apm-log-upload.mihoyo.com
 DOMAIN,ys-log-upload.mihoyo.com
 DOMAIN,zzz-log-upload.mihoyo.com
+DOMAIN,h5collector.mihoyo.com
+DOMAIN,h5log-api-dualstack.mihoyo.com
 DOMAIN-SUFFIX,ads-pixiv.net
 DOMAIN-SUFFIX,niannz.com
 DOMAIN-SUFFIX,szbdyd.com
