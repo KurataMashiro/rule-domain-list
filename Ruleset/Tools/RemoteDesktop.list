@@ -1,0 +1,4 @@
+#远程桌面规则
+
+
+PROCESS-NAME,AnyDesk.exe
