@@ -1,5 +1,6 @@
 # 游戏UDP
 
+DOMAIN,xgdata.xoyo.games
 PROCESS-NAME,Draw&Guess.exe
 PROCESS-NAME,PummelParty.exe
 PROCESS-NAME,Game.exe
