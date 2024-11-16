@@ -1,6 +1,4 @@
 # 游戏UDP
 
-DOMAIN-SUFFIX,xoyo.games
 PROCESS-NAME,Draw&Guess.exe
 PROCESS-NAME,PummelParty.exe
-PROCESS-NAME,Game.exe
