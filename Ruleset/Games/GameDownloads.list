@@ -12,6 +12,7 @@ DOMAIN,cdn-akamai-hw-mc.aki-game.net
 DOMAIN,qn.amazingseasun.com
 DOMAIN-KEYWORD,datareceiver.aki-game.net
 DOMAIN-SUFFIX,kurogame.net
+DOMAIN-SUFFIX,kurogame-service.com.net
 DOMAIN-SUFFIX,amazingseasuncdn.com
 DOMAIN-SUFFIX,xoyo.games
 PROCESS-NAME,Game.exe
