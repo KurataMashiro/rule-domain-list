@@ -10,6 +10,7 @@ DOMAIN,cdn-aws-hw-mc.aki-game.net
 DOMAIN,cdn-huoshan-hw-mc.aki-game.net
 DOMAIN,cdn-akamai-hw-mc.aki-game.net
 DOMAIN,qn.amazingseasun.com
+DOMAIN-KEYWORD,datareceiver.aki-game.net
 DOMAIN-SUFFIX,amazingseasuncdn.com
 DOMAIN-SUFFIX,xoyo.games
 PROCESS-NAME,Game.exe
