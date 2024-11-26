@@ -1,5 +1,6 @@
 # 游戏UDP
 
+DOMAIN,tqos-yun.listdl.com
 PROCESS-NAME,Draw&Guess.exe
 PROCESS-NAME,PummelParty.exe
 PROCESS-NAME,Client-Win64-Shipping.exe
