@@ -1,18 +1,9 @@
 # 游戏下载
 
-DOMAIN,hw-pcdownload-qcloud.aki-game.net
-DOMAIN,hw-pcdownload-aws.aki-game.net
-DOMAIN,hw-pcdownload-akamai.aki-game.net
-DOMAIN,hw-pcdownload-huoshan.aki-game.net
-DOMAIN,pcdownload-huoshan.aki-game.net
-DOMAIN,cdn-qcloud-hw-mc.aki-game.net
-DOMAIN,cdn-aws-hw-mc.aki-game.net
-DOMAIN,cdn-huoshan-hw-mc.aki-game.net
-DOMAIN,cdn-akamai-hw-mc.aki-game.net
-DOMAIN,aki-gm-resources-back.aki-game.net
+
 DOMAIN,qn.amazingseasun.com
-DOMAIN-KEYWORD,datareceiver.aki-game.net
 DOMAIN-KEYWORD,datareceiver.kurogame.xyz
+DOMAIN-SUFFIX,aki-game.net
 DOMAIN-SUFFIX,kurogame.net
 DOMAIN-SUFFIX,kurogame-service.com
 DOMAIN-SUFFIX,amazingseasuncdn.com
