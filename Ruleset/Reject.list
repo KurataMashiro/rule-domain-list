@@ -7,10 +7,9 @@ DOMAIN,ys-log-upload.mihoyo.com
 DOMAIN,zzz-log-upload.mihoyo.com
 DOMAIN,h5collector.mihoyo.com
 DOMAIN,h5log-api-dualstack.mihoyo.com
-DOMAIN-SUFFIX,ads-pixiv.net
-DOMAIN-SUFFIX,niannz.com
-DOMAIN-SUFFIX,szbdyd.com
-DOMAIN-SUFFIX,mcdn.bilivideo.cn
+DOMAIN,ios.ngp.prod.cloud.netflix.com
+DOMAIN,ios.prod.cloud.netflix.com
+DOMAIN,appboot.netflix.com
 DOMAIN,dyp2p-ali.douyucdn.cn
 DOMAIN,dyp2p-hw.douyucdn.cn
 DOMAIN,p2p-ali.douyucdn.cn
@@ -31,6 +30,10 @@ DOMAIN,p2ptun.qq.com
 DOMAIN,p2pupdate.gamedl.qq.com
 DOMAIN,p2pupgrade.gamedl.qq.com
 DOMAIN,pcdn.yximgs.com
+DOMAIN-SUFFIX,ads-pixiv.net
+DOMAIN-SUFFIX,niannz.com
+DOMAIN-SUFFIX,szbdyd.com
+DOMAIN-SUFFIX,mcdn.bilivideo.cn
 DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,bsccdn.net
 DOMAIN-SUFFIX,kuiniuca.com
