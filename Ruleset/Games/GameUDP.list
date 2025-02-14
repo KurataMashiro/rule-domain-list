@@ -1,6 +1,9 @@
 # 游戏UDP
 
 DOMAIN,tqos-yun.listdl.com
+DOMAIN,qn.amazingseasun.com
+DOMAIN-SUFFIX,amazingseasuncdn.com
+DOMAIN-SUFFIX,xoyo.games
 PROCESS-NAME,Draw&Guess.exe
 PROCESS-NAME,PummelParty.exe
 PROCESS-NAME,Client-Win64-Shipping.exe
