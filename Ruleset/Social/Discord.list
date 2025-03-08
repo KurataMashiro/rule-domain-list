@@ -31,6 +31,7 @@ DOMAIN-SUFFIX,watchanimeattheoffice.com
 
 # HK
 IP-CIDR,35.215.128.0/18,no-resolve
+IP-CIDR,35.215.135.0/24,no-resolve
 
 # SG
 IP-CIDR,35.213.128.0/18,no-resolve
