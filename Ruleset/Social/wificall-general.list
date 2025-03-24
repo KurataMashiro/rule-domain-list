@@ -1,0 +1,25 @@
+# Wifi-CALL规则
+
+# T-Mobile-USA
+# Port: 500 / UDP	IPsec - IKE : Authentication [WFC 2.0]
+# Port: 4500 / UDP	IPsec - NAT traversal : Encrypted voice traffic [WFC  2.0]
+# Port: 5061 / TCP/UDP	SIP/TLS : Encrypted SIP [WFC 1.0]
+# Port: 443 / TCP	HTTPS : Used for handset authentication [WFC 1.0]
+# Port: 993 / TCP	IMAP/SSL : Visual Voicemail [WFC 1.0]
+DOMAIN,crl.t-mobile.com
+DOMAIN,eas3.msg.t-mobile.com
+DOMAIN,mascns.t-mobile.com
+DOMAIN,ns.sipgeo.t-mobile.com
+DOMAIN-SUFFIX,mnc260.mcc310.pub.3gppnetwork.org
+IP-CIDR,66.94.0.0/19,no-resolve
+IP-CIDR,206.29.177.36/32,no-resolve
+IP-CIDR,208.54.0.0/16,no-resolve
+
+
+# 3HK
+
+
+# CSL
+
+# Vodafone-UK
+
