@@ -29,16 +29,24 @@ DOMAIN,stun.douyucdn.cn
 DOMAIN,stun.hitv.com
 DOMAIN,stun1.douyucdn.cn
 DOMAIN,p2ptun.qq.com
+DOMAIN,oth.str.mdt.qq.com
 DOMAIN,p2pupdate.gamedl.qq.com
 DOMAIN,p2pupgrade.gamedl.qq.com
 DOMAIN,pcdn.yximgs.com
 DOMAIN-SUFFIX,listdl.com
 DOMAIN-SUFFIX,ads-pixiv.net
 DOMAIN-SUFFIX,niannz.com
-DOMAIN-SUFFIX,szbdyd.com
 DOMAIN-SUFFIX,p2p.huya.com
 DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,bsccdn.net
+DOMAIN-SUFFIX,account.sogou.com
+DOMAIN-SUFFIX,shouji.sogou.com
+DOMAIN-SUFFIX,pinyin.sogou.com
+DOMAIN-SUFFIX,macime.sogou.com
+DOMAIN-SUFFIX,ime.sogou.com
+DOMAIN-SUFFIX,get.sogou.com
+DOMAIN-SUFFIX,sginput.qq.com
+DOMAIN-SUFFIX,beacon.qq.com
 DOMAIN-SUFFIX,kuiniuca.com
 DOMAIN-SUFFIX,onethingpcs.com
 DOMAIN-SUFFIX,pkoplink.com
@@ -47,10 +55,15 @@ DOMAIN-SUFFIX,uhabo.com
 DOMAIN-SUFFIX,xycdn.com
 DOMAIN-SUFFIX,diwodiwo.xyz
 DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,szbdyd.com
 DOMAIN-SUFFIX,mcdn.bilivideo.cn
 AND,((PROTOCOL,UDP), (DOMAIN-SUFFIX,googlevideo.com))
 AND,((DOMAIN-KEYWORD,stun), (DOMAIN-KEYWORD,douyu))
-
+USER-AGENT,SogouInput
+USER-AGENT,com.sogou.sogouinput.BaseKeyboard
+PROCESS-NAME,SogouServices
+PROCESS-NAME,SogouInput
+PROCESS-NAME,SogouTaskManager
 
 # The following ruleset supports AD blocking, tracking protection, privacy protection, anti-phishing, anti-mining. Powered by sukka(SukkaW)
 #########################################
