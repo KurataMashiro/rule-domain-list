@@ -16,7 +16,6 @@ DOMAIN,appboot.netflix.com
 DOMAIN,dyp2p-ali.douyucdn.cn
 DOMAIN,dyp2p-hw.douyucdn.cn
 DOMAIN,p2p-ali.douyucdn.cn
-DOMAIN,p2p.huya.com
 DOMAIN,p2p.qq.com
 DOMAIN,p2pchunk-hw.douyucdn.cn
 DOMAIN,p2pchunk-table.douyucdn.cn
@@ -37,7 +36,7 @@ DOMAIN-SUFFIX,listdl.com
 DOMAIN-SUFFIX,ads-pixiv.net
 DOMAIN-SUFFIX,niannz.com
 DOMAIN-SUFFIX,szbdyd.com
-DOMAIN-SUFFIX,mcdn.bilivideo.cn
+DOMAIN-SUFFIX,p2p.huya.com
 DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,bsccdn.net
 DOMAIN-SUFFIX,kuiniuca.com
@@ -48,3 +47,6 @@ DOMAIN-SUFFIX,uhabo.com
 DOMAIN-SUFFIX,xycdn.com
 DOMAIN-SUFFIX,diwodiwo.xyz
 DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,mcdn.bilivideo.cn
+AND,((PROTOCOL,UDP), (DOMAIN-SUFFIX,googlevideo.com))
+AND,((DOMAIN-KEYWORD,stun), (DOMAIN-KEYWORD,douyu))
