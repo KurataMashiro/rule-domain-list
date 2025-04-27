@@ -1,4 +1,9 @@
 # Standard CDN Domains
+DOMAIN,img.jsdelivr.com
+DOMAIN,data.jsdelivr.com
+DOMAIN,jsdelivr.b-cdn.net
+DOMAIN-SUFFIX,loli.net
+DOMAIN-SUFFIX,loli.io
 DOMAIN-SUFFIX,jsdelivr.net
 
 # The following ruleset is CDN Domains for eco the flow. Powered by Sukka's Ruleset
