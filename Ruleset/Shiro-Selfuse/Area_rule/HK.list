@@ -1,8 +1,3 @@
 # Shiro自用分流列表
 
-DOMAIN-SUFFIX,jastusa.com
-DOMAIN-SUFFIX,denpasoft.com
-DOMAIN-SUFFIX,nekonyansoft.com
-DOMAIN-SUFFIX,appendingpulse.jp
-DOMAIN-KEYWORD,denpasoft
-DOMAIN-KEYWORD,dropbox
+DOMAIN,rule-list.example.com
