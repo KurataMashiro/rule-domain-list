@@ -1,6 +1,8 @@
 #use by myself
 
 DOMAIN,checkip.dyndns.org
+DOMAIN-SUFFIX,prts.plus
+DOMAIN-SUFFIX,zoot.plus
 DOMAIN-SUFFIX,dogfight360.com
 PROCESS-NAME,cs2.exe
 PROCESS-NAME,uu.exe
