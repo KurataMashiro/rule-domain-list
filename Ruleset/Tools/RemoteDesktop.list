@@ -1,4 +1,5 @@
 # 远程桌面规则
 
-
+DOMAIN-SUFFIX,todesk.com
+DOMAIN-SUFFIX,anydesk.com
 PROCESS-NAME,AnyDesk.exe
