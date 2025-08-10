@@ -1,5 +1,8 @@
 # 远程桌面规则
 
+DOMAIN-SUFFIX,teamviewer.com
+DOMAIN-SUFFIX,teamviewer.cn
+DOMAIN-SUFFIX,sunlogin.oray.com
 DOMAIN-SUFFIX,todesk.com
 DOMAIN-SUFFIX,anydesk.com
 PROCESS-NAME,AnyDesk.exe
