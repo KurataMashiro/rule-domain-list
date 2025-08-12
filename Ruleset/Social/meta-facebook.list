@@ -1,0 +1,14 @@
+#No ip include meta.com
+
+DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,fbcdn
+DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fbcdn.com
+DOMAIN-SUFFIX,fbcdn.net
+IP-CIDR6,2a03:2880:f115:188:face:b00c::/96,no-resolve
+IP-CIDR6,2a03:2880:f00f:104:face:b00c::/96,no-resolve
+IP-CIDR6,2a03:2880:f01d:105:face:b00c::/96,no-resolve
+IP-CIDR6,2a03:2880:f01d:106:face:b00c::/96,no-resolve
