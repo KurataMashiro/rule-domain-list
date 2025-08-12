@@ -1,4 +1,5 @@
-#No ip include meta.com
+# meta.com No ipv4
+# but include ipv6
 
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,fbcdn
