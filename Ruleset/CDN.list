@@ -5,6 +5,8 @@ DOMAIN,jsdelivr.b-cdn.net
 DOMAIN-SUFFIX,loli.net
 DOMAIN-SUFFIX,loli.io
 DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,navismithapis-cdn.com
 
 # The following ruleset is CDN Domains for eco the flow. Powered by Sukka's Ruleset
 DOMAIN,cdn-msp.18comic.vip
