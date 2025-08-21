@@ -3,6 +3,7 @@
 DOMAIN-SUFFIX,xoyo.games
 DOMAIN-SUFFIX,amazingseasun.com
 DOMAIN-SUFFIX,amazingseasuncdn.com
+PROCESS-NAME,VRChat.exe
 PROCESS-NAME,Draw&Guess.exe
 PROCESS-NAME,PummelParty.exe
 PROCESS-NAME,Client-Win64-Shipping.exe
