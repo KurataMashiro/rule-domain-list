@@ -11,7 +11,4 @@ DOMAIN-SUFFIX,fbcdn.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,oculus.com
 DOMAIN-SUFFIX,oculuscdn.com
-IP-CIDR6,2a03:2880:f115:188:face:b00c::/96,no-resolve
-IP-CIDR6,2a03:2880:f00f:104:face:b00c::/96,no-resolve
-IP-CIDR6,2a03:2880:f01d:105:face:b00c::/96,no-resolve
-IP-CIDR6,2a03:2880:f01d:106:face:b00c::/96,no-resolve
+IP-ASN,32934
