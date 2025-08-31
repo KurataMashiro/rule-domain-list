@@ -35,6 +35,10 @@ DOMAIN,p2pupgrade.gamedl.qq.com
 DOMAIN,pcdn.yximgs.com
 DOMAIN-SUFFIX,listdl.com
 DOMAIN-SUFFIX,ads-pixiv.net
+DOMAIN-SUFFIX,in.applicationinsights.azure.com
+DOMAIN-SUFFIX,adobe.com
+DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,adobedtm.com
 DOMAIN-SUFFIX,niannz.com
 DOMAIN-SUFFIX,p2p.huya.com
 DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
@@ -59,6 +63,7 @@ DOMAIN-SUFFIX,szbdyd.com
 DOMAIN-SUFFIX,mcdn.bilivideo.cn
 DOMAIN-SUFFIX,trcktr.com
 DOMAIN-SUFFIX,saawsedge.com
+DOMAIN-KEYWORD,adobe
 AND,((PROTOCOL,UDP), (DOMAIN-SUFFIX,googlevideo.com))
 AND,((DOMAIN-KEYWORD,stun), (DOMAIN-KEYWORD,douyu))
 USER-AGENT,SogouInput
