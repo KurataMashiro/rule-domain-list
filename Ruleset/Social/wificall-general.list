@@ -28,3 +28,8 @@ IP-CIDR,208.54.0.0/16,no-resolve
 DOMAIN-SUFFIX,mnc003.mcc520.pub.3gppnetwork.org
 IP-CIDR,119.31.121.14/32,no-resolve
 IP-CIDR,119.31.123.26/32,no-resolve
+
+# One NZ
+DOMAIN-SUFFIX,mnc001.mcc530.pub.3gppnetwork.org
+IP-CIDR,203.96.213.192/32,no-resolve
+IP-CIDR,203.96.213.193/32,no-resolve
