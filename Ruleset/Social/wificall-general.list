@@ -23,3 +23,6 @@ IP-CIDR,208.54.0.0/16,no-resolve
 
 # Vodafone-UK
 
+
+# AIS-th
+DOMAIN-SUFFIX,mnc003.mcc520.pub.3gppnetwork.org
