@@ -26,3 +26,5 @@ IP-CIDR,208.54.0.0/16,no-resolve
 
 # AIS-th
 DOMAIN-SUFFIX,mnc003.mcc520.pub.3gppnetwork.org
+IP-CIDR,119.31.121.14/32,no-resolve
+IP-CIDR,119.31.123.26/32,no-resolve
