@@ -22,7 +22,10 @@ IP-CIDR,208.54.0.0/16,no-resolve
 # CSL
 
 # Vodafone-UK
-
+DOMAIN-SUFFIX,epdg.epc.mnc015.mcc234.pub.3gppnetwork.org
+IP-CIDR,148.252.188.96/32,no-resolve
+IP-CIDR,88.82.11.208/32,no-resolve
+IP-CIDR,88.82.11.221/32,no-resolve
 
 # AIS-th
 DOMAIN-SUFFIX,mnc003.mcc520.pub.3gppnetwork.org
