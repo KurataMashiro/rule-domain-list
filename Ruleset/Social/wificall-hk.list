@@ -1,3 +1,18 @@
-# 3HK
+# 香港Wifi-CALL规则
+
+# Port: 500 / UDP	IPsec - IKE : Authentication [WFC 2.0]
+# Port: 4500 / UDP	IPsec - NAT traversal : Encrypted voice traffic [WFC  2.0]
+# Port: 5061 / TCP/UDP	SIP/TLS : Encrypted SIP [WFC 1.0]
+# Port: 443 / TCP	HTTPS : Used for handset authentication [WFC 1.0]
+# Port: 993 / TCP	IMAP/SSL : Visual Voicemail [WFC 1.0]
+
+# 3HK (Hutchison Telephone)
 DOMAIN-SUFFIX,wlan.three.com.hk
 IP-CIDR,203.145.92.49/32,no-resolve
+
+# CSL (HKT)
+
+# SMC-HK (SmarTone HK)
+DOMAIN-SUFFIX,mnc006.mcc454.pub.3gppnetwork.org
+
+# CMHK (China Mobile HK)
