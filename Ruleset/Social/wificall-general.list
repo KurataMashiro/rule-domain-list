@@ -16,11 +16,15 @@ IP-CIDR,66.94.0.0/19,no-resolve
 IP-CIDR,206.29.177.36/32,no-resolve
 IP-CIDR,208.54.0.0/16,no-resolve
 
-
 # 3HK (Hutchison Telephone)
 DOMAIN-SUFFIX,wlan.three.com.hk
 IP-CIDR,203.145.92.49/32,no-resolve
 IP-CIDR,124.217.186.49/32,no-resolve
+
+# CMHK (China Mobile HK)
+DOMAIN-SUFFIX,mnc012.mcc454.pub.3gppnetwork.org
+IP-CIDR,182.239.86.1/32,no-resolve
+IP-CIDR,182.239.118.1/32,no-resolve
 
 # CSL
 
