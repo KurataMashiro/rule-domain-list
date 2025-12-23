@@ -1,14 +1,20 @@
-# 中国香港地址列表
+# 中国香港/澳门 常用服务地址列表
 
+# 中国香港 常用服务列表
 DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,hkcsl.com
 DOMAIN-SUFFIX,clubsim.com.hk
 DOMAIN-SUFFIX,sosimhk.com
 DOMAIN-SUFFIX,three.com.hk
-DOMAIN-SUFFIX,ctm.net
+DOMAIN-SUFFIX,3supreme.vip
 DOMAIN-SUFFIX,mtr.com.hk
 DOMAIN-SUFFIX,octopus.com.hk
+DOMAIN-SUFFIX,pns.hk
+DOMAIN-SUFFIX,watsons.com.hk
 DOMAIN-SUFFIX,moneyback.com.hk
 DOMAIN-SUFFIX,price.com.hk
 DOMAIN-SUFFIX,fortress.com.hk
 DOMAIN-SUFFIX,broadwaylifestyle.com
+
+# 中国澳门 使用香港proxy也可顺利访问的列表
+DOMAIN-SUFFIX,ctm.net
