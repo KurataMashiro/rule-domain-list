@@ -1,15 +1,24 @@
 # 中国香港/澳门 常用服务地址列表
 
 # 中国香港 常用服务列表
+
+# BOCHK 中银香港
 DOMAIN-SUFFIX,bochk.com
-DOMAIN-SUFFIX,etnet.com.hk
-DOMAIN-SUFFIX,etdsinfo.com
+
+# 汇丰香港
 DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,vv1865.com
+
+# 香港电讯业者
 DOMAIN-SUFFIX,hkcsl.com
 DOMAIN-SUFFIX,clubsim.com.hk
 DOMAIN-SUFFIX,sosimhk.com
 DOMAIN-SUFFIX,three.com.hk
 DOMAIN-SUFFIX,3supreme.vip
+
+# 其它
+DOMAIN-SUFFIX,etnet.com.hk
+DOMAIN-SUFFIX,etdsinfo.com
 DOMAIN-SUFFIX,mtr.com.hk
 DOMAIN-SUFFIX,octopus.com.hk
 DOMAIN-SUFFIX,pns.hk
@@ -21,3 +30,5 @@ DOMAIN-SUFFIX,broadwaylifestyle.com
 
 # 中国澳门 使用香港proxy也可顺利访问的列表
 DOMAIN-SUFFIX,ctm.net
+DOMAIN-SUFFIX,1888.com.mo
+DOMAIN-SUFFIX,three.com.mo
