@@ -17,6 +17,8 @@ DOMAIN-SUFFIX,three.com.hk
 DOMAIN-SUFFIX,3supreme.vip
 
 # 其它
+DOMAIN-SUFFIX,yahoo.com.hk
+DOMAIN,hk.yahoo.com
 DOMAIN-SUFFIX,etnet.com.hk
 DOMAIN-SUFFIX,etdsinfo.com
 DOMAIN-SUFFIX,mtr.com.hk
