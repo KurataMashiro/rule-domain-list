@@ -29,19 +29,3 @@ DOMAIN-SUFFIX,moneyback.com.hk
 DOMAIN-SUFFIX,price.com.hk
 DOMAIN-SUFFIX,fortress.com.hk
 DOMAIN-SUFFIX,broadwaylifestyle.com
-
-# 中国澳门 使用香港proxy也可顺利访问的列表
-DOMAIN-SUFFIX,ctm.net
-DOMAIN-SUFFIX,1888.com.mo
-DOMAIN-SUFFIX,three.com.mo
-DOMAIN-SUFFIX,tdm.com.mo
-DOMAIN-SUFFIX,broadwaymacau.com.mo
-DOMAIN-SUFFIX,macaupass.com
-DOMAIN-SUFFIX,tcm.com.mo
-DOMAIN-SUFFIX,transmac.com.mo
-DOMAIN-SUFFIX,hsbc.com.mo
-DOMAIN-SUFFIX,icbc.com.mo
-DOMAIN,mo.ccb.com
-DOMAIN-SUFFIX,ocbc.com.mo
-DOMAIN-SUFFIX,bcm.com.mo
-DOMAIN-SUFFIX,mlm.com.mo
