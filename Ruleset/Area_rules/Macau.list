@@ -1,17 +1,22 @@
-# 中国澳门地址
+# 中国澳门 常用服务地址列表
 # 使用香港代理也可正常访问
 
+# 澳门电讯业者
 DOMAIN-SUFFIX,ctm.net
 DOMAIN-SUFFIX,1888.com.mo
 DOMAIN-SUFFIX,three.com.mo
-DOMAIN-SUFFIX,tdm.com.mo
-DOMAIN-SUFFIX,broadwaymacau.com.mo
-DOMAIN-SUFFIX,macaupass.com
-DOMAIN-SUFFIX,tcm.com.mo
-DOMAIN-SUFFIX,transmac.com.mo
+
+# 澳门银行列表
 DOMAIN-SUFFIX,hsbc.com.mo
 DOMAIN-SUFFIX,icbc.com.mo
 DOMAIN,mo.ccb.com
 DOMAIN-SUFFIX,ocbc.com.mo
 DOMAIN-SUFFIX,bcm.com.mo
 DOMAIN-SUFFIX,mlm.com.mo
+
+# 其它
+DOMAIN-SUFFIX,tdm.com.mo
+DOMAIN-SUFFIX,broadwaymacau.com.mo
+DOMAIN-SUFFIX,macaupass.com
+DOMAIN-SUFFIX,tcm.com.mo
+DOMAIN-SUFFIX,transmac.com.mo
