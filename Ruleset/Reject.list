@@ -10,6 +10,8 @@ DOMAIN,zzz-log-upload.mihoyo.com
 DOMAIN,h5collector.mihoyo.com
 DOMAIN,h5log-api-dualstack.mihoyo.com
 DOMAIN,sdk-log-upload.mihoyo.com
+DOMAIN,event-log-api-data-lake-prod-cn.hypergryph.com
+DOMAIN,event-log-api-ipv6.hypergryph.com
 DOMAIN,ios.ngp.prod.cloud.netflix.com
 DOMAIN,ios.prod.cloud.netflix.com
 DOMAIN,appboot.netflix.com
