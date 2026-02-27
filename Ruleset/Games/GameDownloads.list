@@ -8,6 +8,12 @@ DOMAIN-KEYWORD,snowbreak-dl
 DOMAIN-SUFFIX,pypy.dance
 DOMAIN-SUFFIX,pypy.moe
 DOMAIN-SUFFIX,infoldgames.com
-DOMAIN-SUFFIX,aki-game.net
+
+
+# Wuthering Waves OS 鸣潮 国际服
+DOMAIN-REGEX,^cdn-.*-hw-mc\.aki-game\.net$
+DOMAIN-REGEX,^hw-pcdownload-.*\.aki-game\.net$
+DOMAIN-REGEX,^pcdownload-.*\.aki-game\.net$
+DOMAIN,mirrors-package-mc.aki-game.net
 DOMAIN-SUFFIX,kurogame.net
 DOMAIN-SUFFIX,kurogame-service.com
