@@ -3,18 +3,8 @@
 DOMAIN,tqos-yun.listdl.com
 DOMAIN,files.vrchat.cloud
 DOMAIN,file-variants.vrchat.cloud
-DOMAIN-KEYWORD,datareceiver.kurogame.xyz
 DOMAIN-KEYWORD,snowbreak-dl
+DOMAIN-SUFFIX,aki-game.net
 DOMAIN-SUFFIX,pypy.dance
 DOMAIN-SUFFIX,pypy.moe
 DOMAIN-SUFFIX,infoldgames.com
-
-
-# Wuthering Waves OS 鸣潮 国际服
-DOMAIN-REGEX,^cdn-.*-hw-mc\.aki-game\.net$
-DOMAIN-REGEX,^hw-pcdownload-.*\.aki-game\.net$
-DOMAIN-REGEX,^pcdownload-.*\.aki-game\.net$
-DOMAIN,mirrors-package-mc.aki-game.net
-DOMAIN,aki-gm-resources-back.aki-game.net
-DOMAIN-SUFFIX,kurogame.net
-DOMAIN-SUFFIX,kurogame-service.com
