@@ -1,8 +1,9 @@
 # 游戏UDP
 
 DOMAIN,wutheringwaves.kurogames.com
-DOMAIN-SUFFIX,aki-game.net
-DOMAIN-SUFFIX,aki-game2.net
+DOMAIN-SUFFIX,kurogame.net
+DOMAIN-SUFFIX,kurogame.xyz
+DOMAIN-SUFFIX,kurogame-service.com
 DOMAIN-SUFFIX,kurogame-service.xyz
 DOMAIN-SUFFIX,xoyo.games
 DOMAIN-SUFFIX,vrch.at
