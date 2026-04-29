@@ -3,8 +3,11 @@
 DOMAIN,tqos-yun.listdl.com
 DOMAIN,files.vrchat.cloud
 DOMAIN,file-variants.vrchat.cloud
+DOMAIN,ntecdn1.perfectworld.com
+DOMAIN,ntecdn2.perfectworld.com
 DOMAIN-KEYWORD,snowbreak-dl
 DOMAIN-SUFFIX,aki-game.net
 DOMAIN-SUFFIX,pypy.dance
 DOMAIN-SUFFIX,pypy.moe
 DOMAIN-SUFFIX,infoldgames.com
+PROCESS-NAME,NTEGlobalUpdate.exe
