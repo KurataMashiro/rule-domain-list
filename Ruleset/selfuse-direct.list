@@ -4,6 +4,7 @@ DOMAIN,checkip.dyndns.org
 DOMAIN-SUFFIX,prts.plus
 DOMAIN-SUFFIX,zoot.plus
 DOMAIN-SUFFIX,dogfight360.com
+DOMAIN-SUFFIX,download.nvidia.com
 PROCESS-NAME,cs2.exe
 PROCESS-NAME,uu.exe
 PROCESS-NAME,uu_ball.exe
