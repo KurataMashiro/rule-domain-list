@@ -1,0 +1,10 @@
+# 库洛游戏 Overseas 国际服
+
+DOMAIN,wutheringwaves.kurogames.com
+DOMAIN-SUFFIX,kurogame.net
+DOMAIN-SUFFIX,kurogame.xyz
+DOMAIN-SUFFIX,kurogame-service.com
+DOMAIN-SUFFIX,kurogame-service.xyz
+
+# Wuthering Waves 鸣潮国际服 Process
+PROCESS-NAME,Client-Win64-Shipping.exe
