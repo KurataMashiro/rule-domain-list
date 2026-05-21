@@ -1,10 +1,5 @@
 # 游戏UDP
 
-DOMAIN,wutheringwaves.kurogames.com
-DOMAIN-SUFFIX,kurogame.net
-DOMAIN-SUFFIX,kurogame.xyz
-DOMAIN-SUFFIX,kurogame-service.com
-DOMAIN-SUFFIX,kurogame-service.xyz
 DOMAIN-SUFFIX,xoyo.games
 DOMAIN-SUFFIX,vrch.at
 DOMAIN-SUFFIX,vrchat.com
@@ -14,4 +9,3 @@ DOMAIN-SUFFIX,amazingseasuncdn.com
 PROCESS-NAME,VRChat.exe
 PROCESS-NAME,Draw&Guess.exe
 PROCESS-NAME,PummelParty.exe
-PROCESS-NAME,Client-Win64-Shipping.exe
