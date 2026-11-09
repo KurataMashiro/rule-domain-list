@@ -37,11 +37,15 @@ DOMAIN,p2pupdate.gamedl.qq.com
 DOMAIN,p2pupgrade.gamedl.qq.com
 DOMAIN,pcdn.yximgs.com
 DOMAIN,adcdn6.tencentmusic.com
+DOMAIN,zzhc.vnet.cn
+DOMAIN,vmd.vivo.com.cn
+DOMAIN,vcodevisual.vivo.xyz
 DOMAIN-SUFFIX,flash.sec.miui.com
 DOMAIN-SUFFIX,fraud-detection.engine.miui.com
 DOMAIN-SUFFIX,eps.caict.ac.cn
 DOMAIN-SUFFIX,gateway-papa.cloud.weizhi.com
 DOMAIN-SUFFIX,dm.wo.com.cn
+DOMAIN-SUFFIX,fxltsbl.com
 DOMAIN-SUFFIX,loc.map.baidu.com
 DOMAIN-SUFFIX,cnloc.map.baidu.com
 DOMAIN-SUFFIX,tracking.miui.com
